@@ -1,18 +1,23 @@
 class Solution {
 public:
-    int hehe(int i, int j, vector<vector<int>>&dp,vector<vector<int>>& grid){
-        if(i==0 && j==0){
-            return grid[i][j];
-        }
-        if(i<0 || j<0)return 1e8;
-        if(dp[i][j]!=-1)return dp[i][j];
-        int up = grid[i][j]+hehe(i-1, j, dp , grid);
-        int down = grid[i][j]+hehe(i, j-1, dp , grid);
-        return dp[i][j] = min(up,down);
-    }
     int minPathSum(vector<vector<int>>& grid) {
-        vector<vector<int>>dp(grid.size(),vector<int>( grid[0].size(),-1));
-        int ans = hehe(grid.size()-1, grid[0].size()-1, dp, grid);
-        return ans;
+        int n = grid.size(), m = grid[0].size();
+
+        vector<vector<int>> dp(n,vector<int>(m,0));
+        dp[0][0] = grid[0][0];
+        for(int i=1;i<n;i++){
+            dp[i][0] = dp[i-1][0] + grid[i][0];
+        }
+
+        for(int j=1;j<m;j++)
+            dp[0][j]=dp[0][j-1] + grid[0][j];
+
+        for(int i=1;i<n;i++){
+            for(int j=1;j<m;j++){
+                dp[i][j] = min(dp[i-1][j], dp[i][j-1]) + grid[i][j];
+            }
+        }
+
+        return dp[n-1][m-1];
     }
 };
