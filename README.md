@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Array
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
 ## Stack
 |  |
 | ------- |
