@@ -19,7 +19,7 @@ public:
     bool predictTheWinner(vector<int>& nums) {
         memset(t,-1,sizeof(t));
         int n = nums.size();
-        if(nums.size()%2==0)return true;
+        // if(nums.size()%2==0)return true;
         int total_score = accumulate(nums.begin() , nums.end() , 0);
 
         int player1_score = solve(0,n-1,nums);
