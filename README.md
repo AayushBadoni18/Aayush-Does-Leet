@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1631-path-with-minimum-effort) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0127-word-ladder) |
 | [0523-continuous-subarray-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0486-predict-the-winner) |
+## Sliding Window
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
