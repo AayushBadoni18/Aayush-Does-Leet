@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
