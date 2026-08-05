@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0127-word-ladder) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
