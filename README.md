@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0127-word-ladder) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
