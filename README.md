@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0962-maximum-width-ramp](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0962-maximum-width-ramp) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
