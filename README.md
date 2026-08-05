@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1331-rank-transform-of-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
