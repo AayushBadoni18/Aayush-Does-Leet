@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
 ## Array
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1463-cherry-pickup-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -264,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
