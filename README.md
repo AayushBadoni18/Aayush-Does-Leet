@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
+| [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -210,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
