@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0739-daily-temperatures) |
+| [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0931-minimum-falling-path-sum) |
 | [0962-maximum-width-ramp](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0962-maximum-width-ramp) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0542-01-matrix) |
+| [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
