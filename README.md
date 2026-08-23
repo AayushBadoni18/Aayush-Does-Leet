@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
+| [0924-minimize-malware-spread](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1192-critical-connections-in-a-network) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
+| [0924-minimize-malware-spread](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
+| [0924-minimize-malware-spread](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
+| [0924-minimize-malware-spread](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
+| [0924-minimize-malware-spread](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0924-minimize-malware-spread) |
 | [0931-minimum-falling-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0931-minimum-falling-path-sum) |
 | [0962-maximum-width-ramp](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0994-rotting-oranges) |
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
+| [0924-minimize-malware-spread](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1331-rank-transform-of-an-array) |
