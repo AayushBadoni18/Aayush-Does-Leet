@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0802-find-eventual-safe-states) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0931-minimum-falling-path-sum) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0994-rotting-oranges) |
@@ -261,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
@@ -268,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1631-path-with-minimum-effort) |
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
@@ -324,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
@@ -351,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
