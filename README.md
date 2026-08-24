@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1631-path-with-minimum-effort) |
+| [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
+| [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
@@ -375,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
+| [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -383,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1192-critical-connections-in-a-network) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
