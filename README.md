@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1631-path-with-minimum-effort) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Topological Sort
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
