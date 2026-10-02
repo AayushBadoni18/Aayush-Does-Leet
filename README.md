@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0064-minimum-path-sum) |
 | [0322-coin-change](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0416-partition-equal-subset-sum) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0127-word-ladder) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1096-brace-expansion-ii) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
