@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0931-minimum-falling-path-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1019-next-greater-node-in-linked-list) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1927-sum-game) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
