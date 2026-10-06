@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0721-accounts-merge) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0064-minimum-path-sum) |
+| [0279-perfect-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0486-predict-the-winner) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0013-roman-to-integer) |
+| [0279-perfect-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0494-target-sum) |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
