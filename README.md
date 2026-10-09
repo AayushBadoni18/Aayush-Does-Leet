@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1096-brace-expansion-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1903-largest-odd-number-in-string) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
