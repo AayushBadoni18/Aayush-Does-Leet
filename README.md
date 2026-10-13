@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
