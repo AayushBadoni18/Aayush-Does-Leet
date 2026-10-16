@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -517,8 +519,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
