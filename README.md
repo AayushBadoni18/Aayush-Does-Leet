@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1463-cherry-pickup-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1927-sum-game) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -525,4 +530,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
