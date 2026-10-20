@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3620-network-recovery-pathways) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -246,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
