@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0064-minimum-path-sum) |
+| [0264-ugly-number-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0416-partition-equal-subset-sum) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0205-isomorphic-strings) |
+| [0264-ugly-number-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0264-ugly-number-ii) |
 | [0743-network-delay-time](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0787-cheapest-flights-within-k-stops) |
