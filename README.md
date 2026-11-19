@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3886-sum-of-sortable-integers) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3723-maximize-sum-of-squares-of-digits) |
