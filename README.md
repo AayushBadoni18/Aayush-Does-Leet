@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0134-gas-station) |
 | [0322-coin-change](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
