@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0856-score-of-parentheses) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0013-roman-to-integer) |
+| [0227-basic-calculator-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0227-basic-calculator-ii) |
 | [0264-ugly-number-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0227-basic-calculator-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0583-delete-operation-for-two-strings) |
