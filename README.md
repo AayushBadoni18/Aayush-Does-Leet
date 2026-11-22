@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0014-longest-common-prefix) |
+| [0047-permutations-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0130-surrounded-regions) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0047-permutations-ii) |
 | [0126-word-ladder-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0494-target-sum) |
