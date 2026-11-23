@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1463-cherry-pickup-ii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1463-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1563-stone-game-v](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -600,4 +603,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AayushBadoni18/Aayush-Does-Leet/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
